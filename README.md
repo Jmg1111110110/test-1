@@ -1,4 +1,4 @@
-# REAFME 파일이란?
+# README 파일이란?
 
 이곳은 *저장소에 대한 설명* 을 작성합니다.
 
@@ -22,3 +22,9 @@
 ```
 
 코드 입력 완료
+
+<https://github.com/Jmg1111110110/project>
+
+[첫번째 프로젝트 연습](https://github.com/Jmg1111110110/project)
+
+[첫번째 프로젝트 연습](https://github.com/Jmg1111110110/project/, "MY PROJECT")
