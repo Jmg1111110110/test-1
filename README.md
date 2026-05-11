@@ -27,4 +27,4 @@
 
 [첫번째 프로젝트 연습](https://github.com/Jmg1111110110/project)
 
-[첫번째 프로젝트 연습](https://github.com/Jmg1111110110/project/, "MY PROJECT")
+[첫번째 프로젝트 연습](https://github.com/Jmg1111110110/project/ "MY PROJECT")
